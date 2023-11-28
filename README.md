@@ -5,6 +5,7 @@ cd ~
 git clone https://github.com/schait/download-scripts.git
 mv download-scripts/get-demo.sh .
 mv download-scripts/get-lab.sh .
+rm -rf download-scripts
 chmod +x get-demo.sh
 chmod +x get-lab.sh
 ```
