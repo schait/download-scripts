@@ -16,3 +16,5 @@ Then you can run the following to download a lab. For instance, to download the 
 cd ~/src
 ./get-lab.sh fs-mars-js
 ```
+
+After you run this code, you will be in the folder containing the lab/demo code.
